@@ -11,7 +11,9 @@ EEPROM : AT24C512
 
 RTC: DS1307
 
-LCD : B/W Blue Backlight Graphical LCD (RES: 320x240)
+LCD : 5.7'' B/W Blue LED Backlight Graphical LCD (RES: 320x240)
+
+Graphic Controller: SED1335
 
 Touch Screen: Two - Wire Resistive Touch Screen
 
