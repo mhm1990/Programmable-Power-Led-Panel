@@ -1,5 +1,5 @@
 # Programmable-Power-Led-Panel
-Code for Programmable Power Led Pnel Project using AVR ATMega 128 micro controller based custom development board
+Code for Programmable Power Led Panel Project using AVR ATMega 128 micro controller based custom development board
 
 Software : AVR Studio 4
 
@@ -17,4 +17,4 @@ Graphic Controller: SED1335
 
 Touch Screen: Two - Wire Resistive Touch Screen
 
-GUI Images : Monochrome BMP created in MS Paint then convered into HEX File using 'LCD ASSISTANT'
+GUI Images : Monochrome BMP created in MS Paint then convered into HEX File using 'LCD ASSISTANT' software
